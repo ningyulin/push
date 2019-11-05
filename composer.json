@@ -1,5 +1,5 @@
 {
-  "name": "nyl/hello-composer",
+  "name": "nylxxx/hello-composer",
   "description": "Hello, Composer!",
   "type": "library",
   "require": {
@@ -8,14 +8,14 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "tlanyan",
-      "email": "tlanyan@hotmail.com"
+      "name": "nylxxx",
+      "email": "nylxxx@hotmail.com"
     }
   ],
   "minimum-stability": "stable",
   "autoload": {
     "psr-4": {
-      "tlanyan\\": "src/"
+      "nylxxx\\": "src/"
     }
   }
 }
